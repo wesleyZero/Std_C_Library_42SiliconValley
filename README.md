@@ -9,5 +9,5 @@ At 42 you were not allowed to use almost any libraries whatsoever. You had to bu
 #### Self-taught free coding school 
 '42' had no in-person instructors, it was a self taught school. For instructions, they [gave us this PDF](https://github.com/wesleyZero/Std_C_Library_42SiliconValley/blob/main/Libft.pdf) and an iMac and let us go to work. The only requirement being that we were in the 'computer lab' 40 hrs / week. 
 
-## Info on project
+## Info
 For a list of all the functions I made, look at the  [header file](https://github.com/wesleyZero/Std_C_Library_42SiliconValley/blob/main/42SV_Libft_Plus_Bonus/libft.h) for the library I made. To browse the functions individually, look into the [project folder](https://github.com/wesleyZero/Std_C_Library_42SiliconValley/tree/main/42SV_Libft_Plus_Bonus) in this repository. 
