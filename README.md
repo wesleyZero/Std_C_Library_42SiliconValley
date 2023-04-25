@@ -1,6 +1,4 @@
 # Creating the Standard Library in C from Scratch
 
-<div id="header" align="center">
-  <img src="https://static.wikia.nocookie.net/pokemon/images/6/6c/Char-pikachu.png/revision/latest?cb=20190430034300" width="100"/>
-</div>
+This project was done at a free coding school called '42 Silicon Valley', which was unfortunately shut down permanently after the 2020 pandemic.
 
